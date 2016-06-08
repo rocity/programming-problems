@@ -4,7 +4,7 @@
     rtotal.py
     ===
 
-    Problem No. 4 in `Lists, Strings`
+    Problem No. 5 in `Lists, Strings`
     Write a function that computes the running total of a list
 """
 
